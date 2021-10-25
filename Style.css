@@ -1,0 +1,23 @@
+.heading
+{
+    font-family: 'Rampart One', cursive;
+    font-size: 30px;
+    width: 80%;
+    margin: 0px;
+    box-shadow: 5px 5px 50px yellow;
+    border-radius: 20px;
+}
+.heading_div 
+{
+    float: none;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px yellow;
+}
+.heading_div_2 
+{
+    font-size: 18px;
+
+}
